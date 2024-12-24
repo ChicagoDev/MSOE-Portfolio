@@ -1,4 +1,4 @@
-# Cell Phone Policy Review
+# Cell Phone Policy Review - Latin Presentation
 
 
 
@@ -16,11 +16,11 @@ according to a 2014 study that I was aware of. So that is the philosophy that I 
 
 Another statistic that stood out to me, was that teenagers receive an average of 273 notifications on their phones per day. (was revealed in 2023) and I think that statistic which was well-circulated may have been the straw that broke the camels back in terms of sparking change around the country with cell phone policy in school
 
-So a couple years went by teaching at Latin, and cell phones continued to be an issue. I frequently found myself in conversations about it with coworkers. 
+So a couple years went by teaching at L, and cell phones continued to be an issue. I frequently found myself in conversations about it with coworkers. 
 
 
 
-I decided to take a closer look at this issue at Latin and I am here to share my observations based on surveys that many of you completed. 
+I decided to take a closer look at this issue at L and I am here to share my observations based on surveys that many of you completed. 
 
 
 
@@ -60,3 +60,84 @@ And then, in the next school year, a surpries occurred: The new policy - that al
 
 Now that we had a new policy in place, I wanted to get a sense of how it is going. So we created a follow up survey to get some feedback on the new policy.
 
+
+
+33 Respondents
+
+100% said the new cell phone policy is an improvement from last year's policies. 
+
+
+
+90% of respondents said that cell phone rarely or never disrupt their classes during the Fall semester
+
+
+
+Because most of the feedback was positive, I think the statistic that warrants the most attention is, 42% of faculty say that they sometimes, often, or always need to remind students to put their phones in the container. (I can say from personal experience, this is also my most frustrating)
+
+
+
+Selected feedback from open-ended questions
+
+**What, if any, new challenges have arisen with the new cell phone policy?**
+
+"I need to think more about classroom management right before class starts. Before students were just sitting on their phones until I told them to put them away, not it takes longer to get their attention. Because they're actually socializing with one another, I actually think of this as a good problem."
+
+
+
+"Some kids don't put them in the cubbies/pockets if it's not in the front of the room when they walk in. I think the placement needs to be in the front of the room so they put their phones away as they walk in."
+
+
+
+"Students doing similar things on their laptops (texting, games, music)"
+
+
+
+"They are more disruptive because they are at the front of the room and buzzing."
+
+
+
+**How, if at all, could the cell phone policy continue to be improved?**
+
+
+
+"Continued encouragement for consistency by all teachers."
+
+"If students kept them in their lockers or somewhere else ALL day as opposed to just when in a classroom."
+
+"I think the policy is good, but it'll probably need to be tweaked because in the beginning all the students were automatically dropping the phones in the box and now I have to remind them almost daily. But, I don't know what else to do that doesn't involve increased monitoring, write ups, and more work focusing on discipline as opposed to teaching. There was an episode on The Daily about it and here is a link to it: https://www.nytimes.com/2024/10/24/learning/listen-the-push-to-ban-phones-in-school.html"
+
+
+
+"Maybe including broad language that mentions any social media or communication apps on electronic devices. Kids all have the Messages app and iPhone mirroring on laptops. I informed students that I will treat Messages/social media notifications on their laptops the same as taking out their cell phones. The solution for them is to ensure that they put their laptop in Do Not Disturb mode for the class period. They can usually just set it for an hour and then it turns off shortly after class ends if they forget.
+
+I also don't think the containers should be used. They need to work on personal responsibility and should be able to put phones in their bags without issue at their age.
+
+In my opinion, having a policy in place and the backing of administration is all that's needed. It's up to the teacher to handle issues that arise in the classroom. "
+
+
+
+"Having a table by the door in each classroom for the cubbies to sit on. "
+
+
+
+"While we've made steps in the right direction, I don't believe students are are truly reaping any of the benefits of "not having cell phones" because they're still inundated with with notifications during passing periods and free periods. "
+
+
+
+---
+
+
+
+One question of clarification -- how uniform is the cell phone policy meant to be? Can teachers have their own twist as long as it is in the spirit of no phones in class? 
+
+
+
+
+
+As I've examined this cell phone policy, its become more apparent that there is no perfect solution -- with some many different stakeholders, with so many different motives, its impossible to please everyone and impossible to create a perfect environoment. Perhaps, in the end, if the phones stay around, there are always going to be edge cases. So, I think it is really up to the teacher to set the tone in their classrooms. 
+
+
+
+
+
+## 
