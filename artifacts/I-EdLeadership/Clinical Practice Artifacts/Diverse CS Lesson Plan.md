@@ -1,42 +1,34 @@
 # Diverse CS Lesson Plan
 
+### **Lesson Title**:  
 
+Celebrating Diversity in Computer Science: Stories Told Through Scratch  
+
+### **Grade Level**:  
+
+High School Computer Science (Beginner Level)  
+
+### **Summary**
 
 In order to recognize the contributions of diverse, including neurodiverse, individuals to technology, computing, and society, students will utilize their Scratch programming skills to code interactive biographical narratives about important diverse indivduals in the field. Their stories will also examine their impact today. 
 
-
-
-Goals
+### Goals
 
 Students will learn about computer science contributions of diverse individuals
 
-Students will explore the themese of equity, diversity, and includion in technology
+Students will explore the themes of equity, diversity, and inclusion in technology
 
 SWBAT code a Scratch program detailing a biography and explaining the ongoing importance of that individual
 
 
 
-Materials Needed:
+### Materials Needed
 
 Short bios, or fact sheets, of several diverse and inclusive historic indivuals that contributed to CS. For example: Alan Turing, Ada Lovelace, Katherine Johnson)
 
 One Scratch exemplar
 
 Worksheet with instructions
-
-
-
-
-
-Here’s a single-class lesson plan and assignment to engage students in exploring **diverse figures in computer science** and promoting equity, using **Scratch** to tell their stories.
-
----
-
-### **Lesson Title**:  
-Celebrating Diversity in Computer Science: Stories Told Through Scratch  
-
-### **Grade Level**:  
-High School Computer Science (Beginner Level)  
 
 
 
@@ -74,7 +66,6 @@ High School Computer Science (Beginner Level)
    - Example ideas:  
      - A timeline of Ada Lovelace’s life with animations and dialogue.  
      - A quiz game about Katherine Johnson’s role at NASA.  
-     - An exploration of Timnit Gebru’s work in ethical AI.  
 
 ---
 
@@ -109,5 +100,3 @@ High School Computer Science (Beginner Level)
 ### **Extensions**  
 - Students can expand their projects to include multiple pathways or mini-games related to the person’s achievements.  
 - Display completed projects on a classroom webpage or during a school event to celebrate diversity in computer science.  
-
-This plan encourages students to connect coding skills with storytelling, while exploring the importance of representation and equity in technology.
