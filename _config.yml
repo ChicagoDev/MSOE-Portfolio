@@ -29,7 +29,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Add to your existing config
 header_pages:
-  - about.markdown
   - presentation.markdown
 
 # Build settings
