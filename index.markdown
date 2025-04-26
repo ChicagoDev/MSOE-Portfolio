@@ -16,9 +16,9 @@ I teach computer science at The Latin School of Chicago. One thing I love about 
 - [Gantt Chart]({% link gannt.markdown %})
 
 ## Wisconsin DPI Administrator Standards
-- Standards Documents
+- [Standards Documents]({% link standards_docs.markdown %})
 - Artifacts
 - Reflection
-- Site Supervisor Observations
-- University Coach Observations
+- [Site Supervisor Observations]({% link site_supervisor_observations.markdown %})
+- [University Coach Observations]({% link coach_observations.markdown %})
 - Secondary Placement Observation Form?
