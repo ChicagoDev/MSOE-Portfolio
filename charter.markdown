@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Project Determination Form"
-permalink: /projDF/
+title: "Project Charter"
+permalink: /charter/
 ---
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.25%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; will-change: transform;">
   <object style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    data="/artifacts/II-ProjectManagement/Project Determination Form.pdf" type="application/pdf">
+    data="/artifacts/II-ProjectManagement/Project%20Charter.pdf" type="application/pdf">
     <p>Unable to display PDF file. 
-    <a href="/artifacts/II-ProjectManagement/Project Determination Form.pdf">Download</a> instead.</p>
+    <a href="/artifacts/II-ProjectManagement/Project%20Charter.pdf">Download</a> instead.</p>
   </object>
 </div>

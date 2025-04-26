@@ -10,10 +10,10 @@ I teach computer science at The Latin School of Chicago. One thing I love about 
 - [Latin Presentation]({% link presentation.markdown %})
 - MSOE Presentation
 - [Project Determination Form]({% link project_determination_form.markdown %})
-- A3
-- Project Charter
-- Scope Document
-- Gantt Chart
+- [A3]({% link a3.markdown %})
+- [Project Charter]({% link charter.markdown %})
+- [Scope Document]({% link scope.markdown %})
+- [Gantt Chart]({% link gannt.markdown %})
 
 ## Wisconsin DPI Administrator Standards
 - Standards Documents
