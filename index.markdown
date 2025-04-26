@@ -8,8 +8,10 @@ I teach computer science at The Latin School of Chicago. One thing I love about 
 
 [//]: # (<object data="/artifacts/II-ProjectManagement/Project Charter.pdf" type="application/pdf" width="100%" height="600px">)
 
+[//]: # ()
 [//]: # (    <p>Unable to display PDF file. <a href="/artifacts/II-ProjectManagement/Project Charter.pdf">Download</a> instead.</p>)
 
+[//]: # ()
 [//]: # (</object>)
 
 ## Cell Phone Policy Review Project
