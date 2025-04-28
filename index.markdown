@@ -7,7 +7,7 @@ I teach computer science at The Latin School of Chicago. One thing I love about 
 ## Leadership Statement [MISSING?]
 
 ## Cell Phone Policy Review Project
-- [Latin Presentation]({% link presentation.markdown %})
+- [Latin Presentation]({{ "/presentation/" | relative_url }})
 - MSOE Presentation
 - [Project Determination Form]({% link project_determination_form.markdown %})
 - [A3]({% link a3.markdown %})
